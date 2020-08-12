@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Here's some stats of my github account.
+
+![Marc's github stats](https://github-readme-stats.vercel.app/api?username=schweitzer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schweitzer&theme=tokyonight&hide=Objective-C)
+
+Here's some repository I'm working on
+
+[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD-IHU&repo=sight&theme=tokyonight)](https://github.com/IRCAD-IHU/sight)
+
+[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD-IHU&repo=modern-cmake-tutorial&theme=tokyonight)](https://github.com/IRCAD-IHU/modern-cmake-tutorial)
+
+...
+
 <!--
 **schweitzer/schweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

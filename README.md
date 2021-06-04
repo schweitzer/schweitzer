@@ -8,9 +8,9 @@ Here's some stats of my github account.
 
 Here's some repository I'm working on
 
-[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD-IHU&repo=sight&theme=tokyonight)](https://github.com/IRCAD-IHU/sight)
+[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD&repo=sight&theme=tokyonight)](https://github.com/IRCAD-IHU/sight)
 
-[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD-IHU&repo=modern-cmake-tutorial&theme=tokyonight)](https://github.com/IRCAD-IHU/modern-cmake-tutorial)
+[![Sight](https://github-readme-stats.vercel.app/api/pin/?username=IRCAD&repo=modern-cmake-tutorial&theme=tokyonight)](https://github.com/IRCAD-IHU/modern-cmake-tutorial)
 
 ...
 

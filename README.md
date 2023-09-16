@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Looking for my [resume][https://schweitzer.github.io/) ?
+Looking for my [resume](https://schweitzer.github.io/) ?
 
 Here's some stats of my github account.
 

@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Looking for my [resume][https://schweitzer.github.io/) ?
+
 Here's some stats of my github account.
 
 ![Marc's github stats](https://github-readme-stats.vercel.app/api?username=schweitzer&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
